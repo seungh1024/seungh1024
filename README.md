@@ -1,4 +1,4 @@
-Hi there 👋! I'm studying Nodejs and hope to be Nodejs Developer.
+Hi there 👋! I'm studying Backend and hope to be Backend Developer.
 
 <h3><b>🛠 Tech Stack 🛠</b></h3>
 <p align="left">
