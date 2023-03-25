@@ -49,7 +49,7 @@ Hi there 👋! I'm studying Backend and hope to be Backend Developer.
     <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=GitLab&logoColor=white"> 
     <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
   
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
+  <br>
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseungh1024&count_bg=%23227BD1&title_bg=%23555555&icon=&icon_color=%23CCE8ED&title=Welcome&edge_flat=false)](https://hits.seeyoufarm.com)
