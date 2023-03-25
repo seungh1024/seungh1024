@@ -1,5 +1,3 @@
-Hi there 👋! I'm studying Backend and hope to be Backend Developer.
-
 <div align = "center">
   <h2> Hi, I'm SeunghHun👋 </h2>
   
@@ -17,6 +15,9 @@ Hi there 👋! I'm studying Backend and hope to be Backend Developer.
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
     <img src="https://img.shields.io/badge/JPA-6DB33F?style=for-the-badge&logoColor=white">
     <img src="https://img.shields.io/badge/QueryDSL-6DB33F?style=for-the-badge&logoColor=white">
+
+  <br>
+
     <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white">
     <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white">
     <img src="https://img.shields.io/badge/JWT-6DB33F?style=for-the-badge&logoColor=white">
