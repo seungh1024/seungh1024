@@ -1,14 +1,15 @@
 Hi there 👋! I'm studying Backend and hope to be Backend Developer.
 
-<h3><b>🛠 Tech Stack 🛠</b></h3>
-<p align="center">
+<div align = "center"><h3><b>🛠 Tech Stack 🛠</b></h3></div>
+
+<div align = "center">
   <h3>Languages<h3>
     <img src="https://img.shields.io/badge/JAVA-6DB33F?style=for-the-badge&logoColor=white">
     <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
-    
+</div>
   <br>
   <h3>Framework<h3>
     <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
