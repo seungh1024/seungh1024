@@ -17,7 +17,6 @@
     <img src="https://img.shields.io/badge/QueryDSL-6DB33F?style=for-the-badge&logoColor=white">
 
   <br>
-
     <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white">
     <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white">
     <img src="https://img.shields.io/badge/JWT-6DB33F?style=for-the-badge&logoColor=white">
