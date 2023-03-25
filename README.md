@@ -20,13 +20,13 @@ Hi there 👋! I'm studying Backend and hope to be Backend Developer.
     <img src="https://img.shields.io/badge/JWT-6DB33F?style=for-the-badge&logoColor=white">
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
     <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=Three.js&logoColor=white">
-    
-    <br>
+
+  <br>
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
     <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=Axios&logoColor=white">
     <img src="https://img.shields.io/badge/SOCKJS-FF9900?style=for-the-badge&logo=SOCKJS&logoColor=white">
     
-    <br>
+  <br>
     <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white">
     <img src="https://img.shields.io/badge/Wear OS-4285F4?style=for-the-badge&logo=Wear OS&logoColor=white">
     
