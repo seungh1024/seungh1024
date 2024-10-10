@@ -20,5 +20,3 @@
 
 
 
-## Blog
-https://seungh1024.tistory.com
